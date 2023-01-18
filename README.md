@@ -6,4 +6,5 @@ In 5classicML is where all the data preprossesing is happening and model trainin
 
 
 Link for attention model: https://dagshub.com/Sakib1263/UNet-Segmentation-AutoEncoder-1D-2D-Tensorflow-Keras/src/main/TensorFlow/1DCNN/Models
+
 Link for Resnet 1dCNN model: https://github.com/ralasun/tensorflow-resnet-1d/blob/master/Resnet.ipynb
